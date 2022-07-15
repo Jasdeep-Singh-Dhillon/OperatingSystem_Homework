@@ -1,0 +1,4 @@
+enter 'help', 'today', or 'exit' to quit
+02/10/2021
+token: 'ls'
+token: '-t'

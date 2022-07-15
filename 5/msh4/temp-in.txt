@@ -1,0 +1,1 @@
+wc -l < test1.sh > temp.txt

@@ -1,0 +1,300 @@
+num_pages 2
+num_trials 500
+2.00
+num_pages 4
+num_trials 500
+4.00
+num_pages 6
+num_trials 500
+2.67
+num_pages 8
+num_trials 500
+1.75
+num_pages 10
+num_trials 500
+5.00
+num_pages 12
+num_trials 500
+3.50
+num_pages 14
+num_trials 500
+3.86
+num_pages 16
+num_trials 500
+7.12
+num_pages 18
+num_trials 500
+7.22
+num_pages 20
+num_trials 500
+5.00
+num_pages 22
+num_trials 500
+6.91
+num_pages 24
+num_trials 500
+8.08
+num_pages 26
+num_trials 500
+8.38
+num_pages 28
+num_trials 500
+7.79
+num_pages 30
+num_trials 500
+7.87
+num_pages 32
+num_trials 500
+8.06
+num_pages 34
+num_trials 500
+8.59
+num_pages 36
+num_trials 500
+7.61
+num_pages 38
+num_trials 500
+7.79
+num_pages 40
+num_trials 500
+7.50
+num_pages 42
+num_trials 500
+8.48
+num_pages 44
+num_trials 500
+8.59
+num_pages 46
+num_trials 500
+7.35
+num_pages 48
+num_trials 500
+5.08
+num_pages 50
+num_trials 500
+4.20
+num_pages 52
+num_trials 500
+10.08
+num_pages 54
+num_trials 500
+8.56
+num_pages 56
+num_trials 500
+9.21
+num_pages 58
+num_trials 500
+8.62
+num_pages 60
+num_trials 500
+10.50
+num_pages 62
+num_trials 500
+8.42
+num_pages 64
+num_trials 500
+6.44
+num_pages 66
+num_trials 500
+8.09
+num_pages 68
+num_trials 500
+8.65
+num_pages 70
+num_trials 500
+9.00
+num_pages 72
+num_trials 500
+8.44
+num_pages 74
+num_trials 500
+8.97
+num_pages 76
+num_trials 500
+8.74
+num_pages 78
+num_trials 500
+6.49
+num_pages 80
+num_trials 500
+7.95
+num_pages 82
+num_trials 500
+8.15
+num_pages 84
+num_trials 500
+8.14
+num_pages 86
+num_trials 500
+8.14
+num_pages 88
+num_trials 500
+5.25
+num_pages 90
+num_trials 500
+9.00
+num_pages 92
+num_trials 500
+10.85
+num_pages 94
+num_trials 500
+8.89
+num_pages 96
+num_trials 500
+9.73
+num_pages 98
+num_trials 500
+10.45
+num_pages 100
+num_trials 500
+8.86
+num_pages 102
+num_trials 500
+8.88
+num_pages 104
+num_trials 500
+8.44
+num_pages 106
+num_trials 500
+8.15
+num_pages 108
+num_trials 500
+7.54
+num_pages 110
+num_trials 500
+8.35
+num_pages 112
+num_trials 500
+9.30
+num_pages 114
+num_trials 500
+9.21
+num_pages 116
+num_trials 500
+8.74
+num_pages 118
+num_trials 500
+8.37
+num_pages 120
+num_trials 500
+9.18
+num_pages 122
+num_trials 500
+8.64
+num_pages 124
+num_trials 500
+8.39
+num_pages 126
+num_trials 500
+6.81
+num_pages 128
+num_trials 500
+8.61
+num_pages 130
+num_trials 500
+8.97
+num_pages 132
+num_trials 500
+9.26
+num_pages 134
+num_trials 500
+8.52
+num_pages 136
+num_trials 500
+7.97
+num_pages 138
+num_trials 500
+8.84
+num_pages 140
+num_trials 500
+8.26
+num_pages 142
+num_trials 500
+9.11
+num_pages 144
+num_trials 500
+8.56
+num_pages 146
+num_trials 500
+8.75
+num_pages 148
+num_trials 500
+8.69
+num_pages 150
+num_trials 500
+8.52
+num_pages 152
+num_trials 500
+8.95
+num_pages 154
+num_trials 500
+8.79
+num_pages 156
+num_trials 500
+8.86
+num_pages 158
+num_trials 500
+8.82
+num_pages 160
+num_trials 500
+8.69
+num_pages 162
+num_trials 500
+8.53
+num_pages 164
+num_trials 500
+8.61
+num_pages 166
+num_trials 500
+8.60
+num_pages 168
+num_trials 500
+9.08
+num_pages 170
+num_trials 500
+5.87
+num_pages 172
+num_trials 500
+8.52
+num_pages 174
+num_trials 500
+8.74
+num_pages 176
+num_trials 500
+8.03
+num_pages 178
+num_trials 500
+9.03
+num_pages 180
+num_trials 500
+8.62
+num_pages 182
+num_trials 500
+9.41
+num_pages 184
+num_trials 500
+8.62
+num_pages 186
+num_trials 500
+8.83
+num_pages 188
+num_trials 500
+9.49
+num_pages 190
+num_trials 500
+8.54
+num_pages 192
+num_trials 500
+9.08
+num_pages 194
+num_trials 500
+8.58
+num_pages 196
+num_trials 500
+9.80
+num_pages 198
+num_trials 500
+8.95
+num_pages 200
+num_trials 500
+8.58

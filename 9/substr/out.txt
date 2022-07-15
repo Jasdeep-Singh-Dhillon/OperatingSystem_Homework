@@ -1,0 +1,1 @@
+usage: ./substr-cnt.sh m n
